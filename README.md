@@ -19,7 +19,7 @@ This tutorial shows how to turn on GitHub Pages: https://youtu.be/xivy_tPJxBA
 
 ## Upload your web files to your repository.
 
-Push your web files to your repository using VSCode or the manual file upload method. The presenter builds two separate web pages. Please load each one into a separate resository and activate GitHub Pages for both.
+Push your web files to your repository using VSCode or the manual file upload method. The presenter builds two separate web pages (A CSS cheat sheet and a separate website page). Please load each one into a separate resository and activate GitHub Pages for both.
 
 ## Submit a link to your repository
 
